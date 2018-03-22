@@ -1,0 +1,551 @@
+A Wait But Why post can be a few different things. One type of WBW post is the “let’s just take this whole topic and really actually get to the bottom of it so we can all completely get it from here forward.” The ideal topic for that kind of post is one that’s really important to our lives, and that tends to come up a lot, but that’s also hugely complex and confusing, often controversial with differing information coming out of different mouths, and that ends up leaving a lot of people feeling like they don’t totally get it as well as they “should.”
+
+The way I approach a post like that is I’ll start with the surface of the topic and ask myself what I don’t fully get—I look for those foggy spots in the story where when someone mentions it or it comes up in an article I’m reading, my mind kind of glazes over with a combination of “ugh it’s that icky term again nah go away” and “ew the adults are saying that adult thing again and I’m seven so I don’t actually understand what they’re talking about.” Then I’ll get reading about those foggy spots—but as I clear away fog from the surface, I often find more fog underneath. So then I research that new fog, and again, often come across other fog even further down. My perfectionism kicks in and I end up refusing to stop going down the rabbit hole until I hit the floor.
+
+For example, I kind of got the Iraq situation, but there was a lot of fog there too—so when I wrote a post about it, one fog-clearing rabbit hole took me all the way back to Muhammad in 570AD. That was the floor. Digging into another part of the story brought me to the end of World War I. Another brought me to the founding of ISIS.
+
+Hitting the floor is a great feeling and makes me realize that the adults weren’t actually saying anything that complicated or icky after all. And when I come across that topic again, it’s fun now, because I get it and I can nod with a serious face on and be like, “Yes, interest rates are problematic” like a real person.
+
+I’ve heard people compare knowledge of a topic to a tree. If you don’t fully get it, it’s like a tree in your head with no trunk—and without a trunk, when you learn something new about the topic—a new branch or leaf of the tree—there’s nothing for it to hang onto, so it just falls away. By clearing out fog all the way to the bottom, I build a tree trunk in my head, and from then on, all new information can hold on, which makes that topic forever more interesting and productive to learn about. And what I usually find is that so many of the topics I’ve pegged as “boring” in my head are actually just foggy to me—like watching episode 17 of a great show, which would be boring if you didn’t have the tree trunk of the back story and characters in place.
+
+So when it was time to start what I had labeled in my head as “the Tesla post,” I knew this was going to be one of those posts. To understand if and why Tesla Motors matters, you have to understand both the story of cars and the story of energy—two worlds I somehow am simultaneously confused by and tremendously sick of. Just hearing someone say “climate change” or “energy crisis” or “tailpipe emissions” makes me kind of gag at this point—just too much politics, too many annoying people, too much misinformation on all sides, and it’s just hard to know how much I actually care and if there can be a solution to all of it anyway. So I did what I do when my tortoise shits when I’m out of the apartment and then spends hours walking through it and tracking it across everything, including the walls somehow—I rolled up my sleeves, took a deep breath, whispered, “Be a man, Tim,” and started scraping through layers of shit. If I have to live in a world with people arguing constantly about energy and oil and greenhouse gases and incentive programs, I might as well build myself a proper tree trunk.
+
+After weeks of reading and asking questions and writing, I’ve emerged from the tortoise sewage with something that toes the line between a long blog post and a short book. I could have broken this into multiple posts, but it’s all one story and I wanted to keep it all together. It’ll be a bit of a time investment, but I think you’ll come out of it with a sturdier tree trunk about all of this than you have now. And as it turns out, when it comes to this topic, we may be witnessing a very awesome moment in history without quite realizing it yet.
+
+Two disclaimers before we start:
+
+1) This is a highly politicized issue, but this post has no political agenda. I’m not political because nothing could ever possibly be more annoying than American politics. I think both parties have good points, both also have a bunch of dumb people saying dumb things, and I want nothing to do with it. So I approached this post—like I try to with every post—from a standpoint of rationality and what I think makes sense.
+
+2) Spoiler: The post is very pro-Tesla. Which might seem suspicious since A) Elon Musk asked me to write about this and B) I just wrote a post calling him the raddest possible man. But two things to keep in mind:
+
+First, this isn’t commissioned by Musk, and I’m being paid $0.00 for doing it. He suggested I take the issue on because I think he thinks there’s a lack of full tree trunks in people’s heads about it—but he never suggested that I say good things about Tesla, electric cars, or anything else.
+
+Second, the currency Wait But Why lives on is integrity. Without it, WBW loses its ability to make an impact. And integrity came first here, even at the expense of Musk potentially hating me at the end of it, if that’s what was necessary. If I didn’t think this would have made a great WBW topic, I wouldn’t have taken it on, and I’m pro-Tesla in the post because after a ton of learning and thinking—including as many counterarguments to Tesla and its worldview as I could find—that’s how I feel.
+
+And with that, let’s dive in.
+
+But what really is energy? The dictionary says it’s “the property of matter and radiation that is manifest as a capacity to perform work.” And it says “work” is “the exertion of force overcoming resistance or producing molecular change.” Putting that together, we get energy being “the property of matter and radiation that is manifest as a capacity to perform the exertion of force overcoming resistance or producing molecular change.”
+
+That was pretty unfun, so for our purposes, let’s call energy “the thing that lets something do stuff.”
+
+But the tricky thing about energy is the law of conservation of energy, which says that energy can’t be created or destroyed, only transferred or transformed from one form to another. And since every living thing needs energy in order to do stuff—and you can’t make your own energy—we’re all awkwardly left with no choice but to steal the energy we need from someone else.11← click these
+
+Almost all of the energy used by the Earth’s living things got to us in the first place from the sun.2 The sun’s energy is what makes the wind blow and the rain fall and it’s what powers the Earth’s living things—the biosphere.
+
+The joule is a common unit of energy—defined as the amount of energy it takes to apply a force of one newton through a distance of one meter3. While the sun’s joules can provide any animal with heat and light, the joules that power all of us from the inside enter the biosphere in the first place when the sun gives them to plants.
+
+hat’s how food is invented—plants know how to take the sun’s joules and turn them into food.
+
+At that point, all hell breaks loose as everyone starts murdering everyone else so they can steal their joules.
+
+We use “the food chain” as a cute euphemism for this murder/theft cycle, and we use the word “eating” to refer to “stealing someone else’s joules and also murdering them too.” A “predator” is a dick who always seems to want your joules over everyone else’s, and “prey” is just some sniveling nerd you particularly like to bully and steal lunch money from. Plants are the only innocent ones who actually follow the Golden Rule, but that’s just because they have the privilege of having the sun as their sugar daddy—and humans are the biosphere’s upsetting mafia boss who just takes what he wants from anyone he wants, whenever he wants. It’s not a great system, but it works.
+
+And that all went on normally for a while, but in the last few hundred thousand years, humans started to realize something: while it was enjoyable to put new joules into your body, actually using those joules sucked. It’s much less fun to use a bunch of joules running fast or lifting something heavy than it is to just sit on a log pleasantly and hold onto those joules instead. So humans got clever and started to figure out ways to get joules outside their bodies to do work for them—by doing that, humans could have their joules and eat them too. Sometimes the methods would be dickish:
+But joules aren’t only in living things. There are joules floating and swirling and zooming all around us, and by inventing the concept of technology, humans figured out ways to get use out of them. They made windmills that could steal some of the wind’s joules as it went by and convert them into mechanical energy to grind food. They built sailboats that would convert wind joules into kinetic boat energy they could control. Water absorbs the sun’s radiation joules and turns them into gravitational potential energy joules when it evaporates and then kinetic energy joules when it rains and slides down land, and humans saw the opportunity to snatch some of those up by creating water wheels or dams.
+
+But the most exciting joule-stealing technology humans came up with was figuring out how to burn something. With wind or water, you can only capture moving joules as they go by—but when you burn something, you can take an object that has been soaking up joules for years and release them all at once. A joule explosion.
+
+They called this explosion fire, and because the joules that emerged were in the useful-to-humans formats of heat energy and light energy, burning things became a popular activity.
+
+Taming a Dragon
+
+We had learned to harness the joules of the wind and the water—to take those forces by the reins and make them ours—but when it came to the most joule-heavy force of all, fire, we couldn’t really figure out how to do anything with it other than hang out near it, cook some stuff, and generally benefit from its existence. Fire was a hectic dragon and no one had figured out how to grab its reins.
+
+And then came the breakthrough. Steam.
+
+Fire joules were hard to harness, but if you sent them into water, they’d get the water molecules to increasingly freak out and bounce around until finally those molecules would fully panic and start flying off the surface, evaporating upwards with the force of the raging fire below. You’d have successfully converted the thermal energy joules of the fire—which we didn’t know how to directly harness—into a powerful jet of steam we could control.
+
+With the muscle of steam in their toolkit, the inventors of the 18th century burst into innovation. They had some serious joules to work with now, which opened worlds of previously-unthinkable possibility. Breakthroughs led to more breakthroughs, and at the turn of the 19th century, the progress culminated in an invention that’s often called the most impactful turning point in human history: the steam engine.
+
+Picture your tea kettle when it gets all angry at you and starts whistling. Now imagine that instead of the steam spewing out through the nozzle, you connected the nozzle to a tube, which directs the bursting steam into an empty cylinder and then finally releases it. When the steam goes into and then out of the cylinder, it shoves a “piston” inside the cylinder on a powerful back-and-forth motion. That’s (a dramatic oversimplification of) how a steam engine works. Depending on the vehicle, the back-and-forth motion of the piston can do different things. In the example of a locomotive, the piston is attached to a rod whose back-and-forth motion turns the wheels:2 
+Using the steam engine, humanity upgraded from sailboats to steamships and from animal-drawn carts to locomotives.4 Inside factories, people put steam to work too, swapping out their water wheels for much more effective steam-powered wheels.
+
+With the new ability to transport many more goods and materials, much farther away, much more quickly, and to far more efficient factories, the Industrial Revolution ignited in full force. People say the Industrial Revolution was powered by steam, but steam was just the middleman—after hundreds of thousands of years of existing as passive benefactors of combustion, we had tamed the dragon, and the Industrial Revolution was powered by fire.
+
+Striking Gold
+
+The one thing about having made fire our bitch is that we now wanted to burn a lot more things than we ever had before. For most of human history, when people wanted to burn something, they just went and found some wood. Easy. Except now it was the 19th century, and with our new appetite to burn, wood wouldn’t cut it anymore.
+
+We knew there were other things we could burn—in Britain, they would often supplement wood by burning a black rocky substance they found on their shores. They called it coal.
+
+The problem is that unlike wood, most of the coal in Britain wasn’t just sitting conveniently on land—it was underground. When the Industrial Revolution got going, the British started digging—they were gonna need a lot of coal. As the revolution spread through Europe and to North America, Europeans and Americans started digging too—they also were gonna need a lot of coal.
+
+As everyone dug, they started finding other things too. They found pockets of burnable air we call natural gas and underground lakes of thick, black burnable liquid we call crude oil. It turns out that this whole time, humans had been walking around with a vast untapped treasure of tightly packed, burnable joules right underneath them. It was like a dog digging in the woods to bury a bone and uncovering an underground cave full of pulled pork.
+
+And what does a dog do who finds a cave of pulled pork? Does he pause to think cautiously about how to proceed or consider consequences for his health? No—he eats the shit out of it. Mindlessly, at full speed.
+
+And throughout the 19th century, coal mines and oil rigs popped up everywhere. Burning this new treasure of joules made economies soar and the incentive to innovate soared along with them—and new, fantastic technologies were born.
+
+Like steam engine technology, the credit for the electricity revolution is owed to a collaboration of dozens of innovators spanning centuries, but it was in the 1880s that it all finally came together. In what is still probably the most significant technological shift of all time, electricity allowed the raucous power of burning to be converted into a highly tame and remarkably versatile form of energy called electrical energy. With steam as a key middleman, all those spastic combustion joules could now be sent into an organized grid of wires, transferred long distances, and delivered into residential and commercial buildings where it would wait patiently in an outlet ready to be discharged at the user’s convenience.5 At that point, the now electrical joules could be converted into almost any kind of energy—they could boil water, freeze ice, light up the room, or make a phone call. If steam had tamed the dragon, electricity had turned the dragon into a magical butler, forever at our service. And for the first time in human history, the power was on.
+
+Right around the time this was happening, another revolution was underway. Fire was now powering our ships, our trains, our factories, and even the new wizardry of electricity, but individual transportation was still powered by hay like it was 1775—and late 19th century humanity knew we could do better. Biological horses got super upset if you tried to power them by fire, so again, humanity got innovating, and a couple decades later, there were big, metal horses everywhere with engine cylinders full of fire.
+
+As coal, oil, and natural gas motivated unprecedented innovation, the resulting waves of new technologies created an unprecedented need to burn stuff—which motivated the diggers. Companies that focused on digging, sucking, and siphoning up more and more of our underground joule treasure, like John D. Rockefeller’s Standard Oil, became the world’s biggest corporate empires. It was a new world, powered by an endless cave of pulled pork, being gorged upon by the world’s happiest dog…
+
+___________
+
+Flash forward to the present day.
+
+Burning our bounty of underground joule-packed fuel to power our world is now an innovation more than two centuries old—but in 2015, it’s still the main way humans get their power:3 
+
+
+How Tesla Will Change The World
+June 2, 2015 By Tim Urban
+
+This is Part 2 of a four-part series on Elon Musk’s companies. For an explanation of why this series is happening and how Musk is involved, start with Part 1.
+
+____________
+
+PDF and ebook options: We made a fancy PDF of this post for printing and offline viewing (see a preview here), and an ebook containing the whole four-part Elon Musk series:
+
+PDF buttonget the ebook
+
+___________
+
+A Wait But Why post can be a few different things. One type of WBW post is the “let’s just take this whole topic and really actually get to the bottom of it so we can all completely get it from here forward.” The ideal topic for that kind of post is one that’s really important to our lives, and that tends to come up a lot, but that’s also hugely complex and confusing, often controversial with differing information coming out of different mouths, and that ends up leaving a lot of people feeling like they don’t totally get it as well as they “should.”
+
+The way I approach a post like that is I’ll start with the surface of the topic and ask myself what I don’t fully get—I look for those foggy spots in the story where when someone mentions it or it comes up in an article I’m reading, my mind kind of glazes over with a combination of “ugh it’s that icky term again nah go away” and “ew the adults are saying that adult thing again and I’m seven so I don’t actually understand what they’re talking about.” Then I’ll get reading about those foggy spots—but as I clear away fog from the surface, I often find more fog underneath. So then I research that new fog, and again, often come across other fog even further down. My perfectionism kicks in and I end up refusing to stop going down the rabbit hole until I hit the floor.
+
+For example, I kind of got the Iraq situation, but there was a lot of fog there too—so when I wrote a post about it, one fog-clearing rabbit hole took me all the way back to Muhammad in 570AD. That was the floor. Digging into another part of the story brought me to the end of World War I. Another brought me to the founding of ISIS.
+
+Hitting the floor is a great feeling and makes me realize that the adults weren’t actually saying anything that complicated or icky after all. And when I come across that topic again, it’s fun now, because I get it and I can nod with a serious face on and be like, “Yes, interest rates are problematic” like a real person.
+
+I’ve heard people compare knowledge of a topic to a tree. If you don’t fully get it, it’s like a tree in your head with no trunk—and without a trunk, when you learn something new about the topic—a new branch or leaf of the tree—there’s nothing for it to hang onto, so it just falls away. By clearing out fog all the way to the bottom, I build a tree trunk in my head, and from then on, all new information can hold on, which makes that topic forever more interesting and productive to learn about. And what I usually find is that so many of the topics I’ve pegged as “boring” in my head are actually just foggy to me—like watching episode 17 of a great show, which would be boring if you didn’t have the tree trunk of the back story and characters in place.
+
+So when it was time to start what I had labeled in my head as “the Tesla post,” I knew this was going to be one of those posts. To understand if and why Tesla Motors matters, you have to understand both the story of cars and the story of energy—two worlds I somehow am simultaneously confused by and tremendously sick of. Just hearing someone say “climate change” or “energy crisis” or “tailpipe emissions” makes me kind of gag at this point—just too much politics, too many annoying people, too much misinformation on all sides, and it’s just hard to know how much I actually care and if there can be a solution to all of it anyway. So I did what I do when my tortoise shits when I’m out of the apartment and then spends hours walking through it and tracking it across everything, including the walls somehow—I rolled up my sleeves, took a deep breath, whispered, “Be a man, Tim,” and started scraping through layers of shit. If I have to live in a world with people arguing constantly about energy and oil and greenhouse gases and incentive programs, I might as well build myself a proper tree trunk.
+
+After weeks of reading and asking questions and writing, I’ve emerged from the tortoise sewage with something that toes the line between a long blog post and a short book. I could have broken this into multiple posts, but it’s all one story and I wanted to keep it all together. It’ll be a bit of a time investment, but I think you’ll come out of it with a sturdier tree trunk about all of this than you have now. And as it turns out, when it comes to this topic, we may be witnessing a very awesome moment in history without quite realizing it yet.
+
+Two disclaimers before we start:
+
+1) This is a highly politicized issue, but this post has no political agenda. I’m not political because nothing could ever possibly be more annoying than American politics. I think both parties have good points, both also have a bunch of dumb people saying dumb things, and I want nothing to do with it. So I approached this post—like I try to with every post—from a standpoint of rationality and what I think makes sense.
+
+2) Spoiler: The post is very pro-Tesla. Which might seem suspicious since A) Elon Musk asked me to write about this and B) I just wrote a post calling him the raddest possible man. But two things to keep in mind:
+
+First, this isn’t commissioned by Musk, and I’m being paid $0.00 for doing it. He suggested I take the issue on because I think he thinks there’s a lack of full tree trunks in people’s heads about it—but he never suggested that I say good things about Tesla, electric cars, or anything else.
+
+Second, the currency Wait But Why lives on is integrity. Without it, WBW loses its ability to make an impact. And integrity came first here, even at the expense of Musk potentially hating me at the end of it, if that’s what was necessary. If I didn’t think this would have made a great WBW topic, I wouldn’t have taken it on, and I’m pro-Tesla in the post because after a ton of learning and thinking—including as many counterarguments to Tesla and its worldview as I could find—that’s how I feel.
+
+And with that, let’s dive in.
+
+Contents
+
+Part 1: The Story of Energy
+Part 2: The Story of Cars
+Part 3: The Story of Tesla
+
+___________
+
+Part 1: The Story of Energy
+
+Story of Energy
+
+Energy is important. Without energy, we’d all be like this:
+
+Lying Down
+
+But what really is energy? The dictionary says it’s “the property of matter and radiation that is manifest as a capacity to perform work.” And it says “work” is “the exertion of force overcoming resistance or producing molecular change.” Putting that together, we get energy being “the property of matter and radiation that is manifest as a capacity to perform the exertion of force overcoming resistance or producing molecular change.”
+
+That was pretty unfun, so for our purposes, let’s call energy “the thing that lets something do stuff.”
+
+But the tricky thing about energy is the law of conservation of energy, which says that energy can’t be created or destroyed, only transferred or transformed from one form to another. And since every living thing needs energy in order to do stuff—and you can’t make your own energy—we’re all awkwardly left with no choice but to steal the energy we need from someone else.11← click these
+
+Almost all of the energy used by the Earth’s living things got to us in the first place from the sun.2 The sun’s energy is what makes the wind blow and the rain fall and it’s what powers the Earth’s living things—the biosphere.
+
+The joule is a common unit of energy—defined as the amount of energy it takes to apply a force of one newton through a distance of one meter3. While the sun’s joules can provide any animal with heat and light, the joules that power all of us from the inside enter the biosphere in the first place when the sun gives them to plants.
+
+Sun
+
+That’s how food is invented—plants know how to take the sun’s joules and turn them into food.
+
+At that point, all hell breaks loose as everyone starts murdering everyone else so they can steal their joules.
+
+We use “the food chain” as a cute euphemism for this murder/theft cycle, and we use the word “eating” to refer to “stealing someone else’s joules and also murdering them too.” A “predator” is a dick who always seems to want your joules over everyone else’s, and “prey” is just some sniveling nerd you particularly like to bully and steal lunch money from. Plants are the only innocent ones who actually follow the Golden Rule, but that’s just because they have the privilege of having the sun as their sugar daddy—and humans are the biosphere’s upsetting mafia boss who just takes what he wants from anyone he wants, whenever he wants. It’s not a great system, but it works.
+
+And that all went on normally for a while, but in the last few hundred thousand years, humans started to realize something: while it was enjoyable to put new joules into your body, actually using those joules sucked. It’s much less fun to use a bunch of joules running fast or lifting something heavy than it is to just sit on a log pleasantly and hold onto those joules instead. So humans got clever and started to figure out ways to get joules outside their bodies to do work for them—by doing that, humans could have their joules and eat them too. Sometimes the methods would be dickish:
+
+Horse hand
+
+But joules aren’t only in living things. There are joules floating and swirling and zooming all around us, and by inventing the concept of technology, humans figured out ways to get use out of them. They made windmills that could steal some of the wind’s joules as it went by and convert them into mechanical energy to grind food. They built sailboats that would convert wind joules into kinetic boat energy they could control. Water absorbs the sun’s radiation joules and turns them into gravitational potential energy joules when it evaporates and then kinetic energy joules when it rains and slides down land, and humans saw the opportunity to snatch some of those up by creating water wheels or dams.
+
+But the most exciting joule-stealing technology humans came up with was figuring out how to burn something. With wind or water, you can only capture moving joules as they go by—but when you burn something, you can take an object that has been soaking up joules for years and release them all at once. A joule explosion.
+
+They called this explosion fire, and because the joules that emerged were in the useful-to-humans formats of heat energy and light energy, burning things became a popular activity.
+
+Taming a Dragon
+
+We had learned to harness the joules of the wind and the water—to take those forces by the reins and make them ours—but when it came to the most joule-heavy force of all, fire, we couldn’t really figure out how to do anything with it other than hang out near it, cook some stuff, and generally benefit from its existence. Fire was a hectic dragon and no one had figured out how to grab its reins.
+
+And then came the breakthrough. Steam.
+
+Fire joules were hard to harness, but if you sent them into water, they’d get the water molecules to increasingly freak out and bounce around until finally those molecules would fully panic and start flying off the surface, evaporating upwards with the force of the raging fire below. You’d have successfully converted the thermal energy joules of the fire—which we didn’t know how to directly harness—into a powerful jet of steam we could control.
+
+With the muscle of steam in their toolkit, the inventors of the 18th century burst into innovation. They had some serious joules to work with now, which opened worlds of previously-unthinkable possibility. Breakthroughs led to more breakthroughs, and at the turn of the 19th century, the progress culminated in an invention that’s often called the most impactful turning point in human history: the steam engine.
+
+Picture your tea kettle when it gets all angry at you and starts whistling. Now imagine that instead of the steam spewing out through the nozzle, you connected the nozzle to a tube, which directs the bursting steam into an empty cylinder and then finally releases it. When the steam goes into and then out of the cylinder, it shoves a “piston” inside the cylinder on a powerful back-and-forth motion. That’s (a dramatic oversimplification of) how a steam engine works. Depending on the vehicle, the back-and-forth motion of the piston can do different things. In the example of a locomotive, the piston is attached to a rod whose back-and-forth motion turns the wheels:2
+
+rodsmed
+
+ 
+
+Using the steam engine, humanity upgraded from sailboats to steamships and from animal-drawn carts to locomotives.4 Inside factories, people put steam to work too, swapping out their water wheels for much more effective steam-powered wheels.
+
+With the new ability to transport many more goods and materials, much farther away, much more quickly, and to far more efficient factories, the Industrial Revolution ignited in full force. People say the Industrial Revolution was powered by steam, but steam was just the middleman—after hundreds of thousands of years of existing as passive benefactors of combustion, we had tamed the dragon, and the Industrial Revolution was powered by fire.
+
+Striking Gold
+
+The one thing about having made fire our bitch is that we now wanted to burn a lot more things than we ever had before. For most of human history, when people wanted to burn something, they just went and found some wood. Easy. Except now it was the 19th century, and with our new appetite to burn, wood wouldn’t cut it anymore.
+
+We knew there were other things we could burn—in Britain, they would often supplement wood by burning a black rocky substance they found on their shores. They called it coal.
+
+The problem is that unlike wood, most of the coal in Britain wasn’t just sitting conveniently on land—it was underground. When the Industrial Revolution got going, the British started digging—they were gonna need a lot of coal. As the revolution spread through Europe and to North America, Europeans and Americans started digging too—they also were gonna need a lot of coal.
+
+As everyone dug, they started finding other things too. They found pockets of burnable air we call natural gas and underground lakes of thick, black burnable liquid we call crude oil. It turns out that this whole time, humans had been walking around with a vast untapped treasure of tightly packed, burnable joules right underneath them. It was like a dog digging in the woods to bury a bone and uncovering an underground cave full of pulled pork.
+
+And what does a dog do who finds a cave of pulled pork? Does he pause to think cautiously about how to proceed or consider consequences for his health? No—he eats the shit out of it. Mindlessly, at full speed.
+
+And throughout the 19th century, coal mines and oil rigs popped up everywhere. Burning this new treasure of joules made economies soar and the incentive to innovate soared along with them—and new, fantastic technologies were born.
+
+Like steam engine technology, the credit for the electricity revolution is owed to a collaboration of dozens of innovators spanning centuries, but it was in the 1880s that it all finally came together. In what is still probably the most significant technological shift of all time, electricity allowed the raucous power of burning to be converted into a highly tame and remarkably versatile form of energy called electrical energy. With steam as a key middleman, all those spastic combustion joules could now be sent into an organized grid of wires, transferred long distances, and delivered into residential and commercial buildings where it would wait patiently in an outlet ready to be discharged at the user’s convenience.5 At that point, the now electrical joules could be converted into almost any kind of energy—they could boil water, freeze ice, light up the room, or make a phone call. If steam had tamed the dragon, electricity had turned the dragon into a magical butler, forever at our service. And for the first time in human history, the power was on.
+
+Right around the time this was happening, another revolution was underway. Fire was now powering our ships, our trains, our factories, and even the new wizardry of electricity, but individual transportation was still powered by hay like it was 1775—and late 19th century humanity knew we could do better. Biological horses got super upset if you tried to power them by fire, so again, humanity got innovating, and a couple decades later, there were big, metal horses everywhere with engine cylinders full of fire.
+
+As coal, oil, and natural gas motivated unprecedented innovation, the resulting waves of new technologies created an unprecedented need to burn stuff—which motivated the diggers. Companies that focused on digging, sucking, and siphoning up more and more of our underground joule treasure, like John D. Rockefeller’s Standard Oil, became the world’s biggest corporate empires. It was a new world, powered by an endless cave of pulled pork, being gorged upon by the world’s happiest dog…
+
+___________
+
+Flash forward to the present day.
+
+Burning our bounty of underground joule-packed fuel to power our world is now an innovation more than two centuries old—but in 2015, it’s still the main way humans get their power:3
+
+Total_World_Energy_Consumption_by_Source_2013
+
+That’s the thing about dogs—if given something delicious, they tend to eat until the food runs out or they get sick, whichever comes first, and there aren’t too many other factors in play. The modern energy debate essentially boils down to whether it’s okay that the dog is still fully enjoying himself in the cave or whether it’s not because he might be making himself dangerously sick or risk running out of pulled pork—which would be a problem, because he has grown increasingly large since finding the cave, and he has no way outside the cave of feeding his now-immense appetite.
+
+As you might have noticed, there are a lot of people who have a lot of opinions for a lot of reasons saying a lot of things about this situation. And some are saying real things, but a large portion of them either don’t especially know what they’re talking about or they have some ulterior motive for saying what they’re saying. This makes an already complex, murky, multi-faceted topic even more confusing.
+
+So let’s lay out what we do know and try to clarify what the hell is really going on.
+
+To begin with—what exactly are fossil fuels and where do they come from?
+
+Fossil fuels are called fossil fuels because they’re the remains of ancient living things. “Ancient” in this case spans a wide range. The earliest organisms that contribute to today’s fossil fuels lived during the Precambrian Eon, before there were any plants and animals on land—the fossil organisms then would have been ocean algae. People often think fossil fuels are made of dinosaurs, but any dinosaurs in our gasoline are from the last couple hundred million years—the later stretch of the timespan—and only a small contributor. The largest portion of our fossil fuels comes from plants, animals, and algae that lived during the Carboniferous Period—a 50 million year period that ended about 300 million years ago and during which there were lots of huge, shallow swamps. The swamps were important because it made it more likely that a dead organism would be preserved. You don’t become a fossil fuel if you die in a normal place and decompose away. But by dying in a swamp and sinking to the bottom, Carboniferous organisms often ended up being quickly covered by sand and clay and were able to make it underground with their joules still intact.
+
+After hundreds of millions of years, all those organisms were squashed under intense heat and pressure and became converted into joule-dense solid, liquid, or gas—coal, oil, and natural gas. Quick blue box brush-up:
+When a plant grows, it makes its own food through photosynthesis. At its most oversimplified, during photosynthesis, the plant takes CO2 from the air7 and absorbs light energy from the sun to split the CO2 into carbon (C) and oxygen (O2). The plant keeps the carbon and emits the oxygen as a waste product. The sun’s light energy stays in the plant as chemical energy the plant can use.
+
+So wood is essentially a block of carbon and stored chemical energy.
+
+When you burn a log, all you’re doing is reversing the photosynthesis. Normally, oxygen in the air just bounces off carbon molecules in wood—that’s why trees aren’t constantly on fire. But when an oxygen molecule gets moving fast enough and smashes into a log’s carbon molecule, they snap together and the oxygen and carbon are reunited again as CO2. This snapping releases chemical energy, which knocks into other nearby oxygen molecules, causing them to get going fast—and if they get going fast enough, they’ll snap together with another of the log’s carbon molecules, which releases more chemical energy. This causes a chain reaction, and the log is now on fire. So a log burning is the process of the carbon in the log combining with oxygen in the air and floating off as CO2.
+
+Of course, that’s all irrelevant to the person burning the log—what they care about is the energy released during all of this CO2 formation. The release of all of the log’s stored chemical energy creates a glorious blaze of heat and light. The tree spent years quietly absorbing carbon molecules and sunshine joules, and all at once, during combustion, that carbon and sunshine explode back out into the world.8
+
+To put it another way, photosynthesis just kidnaps carbon and sun energy out of the atmosphere, and after years of holding them hostage, combustion sets them both free—the carbon as a billowing eruption of newly reunited CO2, and the sun energy as fire—meaning that fire is essentially just tightly packed sunshine.
+
+But burning a log and releasing all that CO2 does not tamper with the atmosphere’s carbon levels. Why? Because the carbon that’s being released was recently in the atmosphere, and if you hadn’t set the log on fire, it would have likely decomposed, which would release the carbon back into the world anyway. The log’s carbon was only being held temporarily hostage, and releasing it through combustion has little effect.
+
+Carbon flows from the atmosphere into plants and animals, into the ground and water, and then back out of all those things into the atmosphere—that’s called the carbon cycle. At any given point in time, the Earth’s active carbon cycle contains a specific amount of carbon. Burning a log doesn’t change that level because the carbon cycle “expects” that carbon to be hanging around the ground, water, or air.
+
+But sometimes, a small portion of carbon in the cycle drops out of the cycle for the long term—it happens when a plant or animal dies but for some reason doesn’t decay normally. Instead, before it can decay and release its carbon back into the cycle, it’s buried underground. Over time, that lost carbon adds up. And today, the Earth’s fossil fuels make up a huge mass of lost carbon—carbon that long ago was taken hostage permanently, and carbon that the carbon cycle does not expect to be involved in its routine.
+
+When humans discovered all of this underground kidnapped carbon, you have to remember that for them, the carbon wasn’t the point. They were staring at an endless sea of 300 million-year-old, densely packed sunshine—trillions of ancient plants with their joules intact—and since there are no laws protecting the estates of Carboniferous plants, we could seize it all for ourselves. The grandest joule theft in history.
+
+And as we helped ourselves, we didn’t worry about the fact that extracting those joules also meant extracting carbon that had been buried as far back as the Precambrian period—there were locomotives to fuel and cars to power and buildings to heat, and the joules were irresistible.
+
+And those joules have gone a long way—you can thank them for the comforts and quality of your life today. But those carbon molecules have gone a long way too.
+
+Starting in 1958, scientist Charles Keeling started measuring atmospheric CO2 levels from an observatory on Mauna Loa in Hawaii. Those measurements are still going on today. Here’s what they show:7 
+
+How Tesla Will Change The World
+June 2, 2015 By Tim Urban
+
+This is Part 2 of a four-part series on Elon Musk’s companies. For an explanation of why this series is happening and how Musk is involved, start with Part 1.
+
+____________
+
+PDF and ebook options: We made a fancy PDF of this post for printing and offline viewing (see a preview here), and an ebook containing the whole four-part Elon Musk series:
+
+PDF buttonget the ebook
+
+___________
+
+A Wait But Why post can be a few different things. One type of WBW post is the “let’s just take this whole topic and really actually get to the bottom of it so we can all completely get it from here forward.” The ideal topic for that kind of post is one that’s really important to our lives, and that tends to come up a lot, but that’s also hugely complex and confusing, often controversial with differing information coming out of different mouths, and that ends up leaving a lot of people feeling like they don’t totally get it as well as they “should.”
+
+The way I approach a post like that is I’ll start with the surface of the topic and ask myself what I don’t fully get—I look for those foggy spots in the story where when someone mentions it or it comes up in an article I’m reading, my mind kind of glazes over with a combination of “ugh it’s that icky term again nah go away” and “ew the adults are saying that adult thing again and I’m seven so I don’t actually understand what they’re talking about.” Then I’ll get reading about those foggy spots—but as I clear away fog from the surface, I often find more fog underneath. So then I research that new fog, and again, often come across other fog even further down. My perfectionism kicks in and I end up refusing to stop going down the rabbit hole until I hit the floor.
+
+For example, I kind of got the Iraq situation, but there was a lot of fog there too—so when I wrote a post about it, one fog-clearing rabbit hole took me all the way back to Muhammad in 570AD. That was the floor. Digging into another part of the story brought me to the end of World War I. Another brought me to the founding of ISIS.
+
+Hitting the floor is a great feeling and makes me realize that the adults weren’t actually saying anything that complicated or icky after all. And when I come across that topic again, it’s fun now, because I get it and I can nod with a serious face on and be like, “Yes, interest rates are problematic” like a real person.
+
+I’ve heard people compare knowledge of a topic to a tree. If you don’t fully get it, it’s like a tree in your head with no trunk—and without a trunk, when you learn something new about the topic—a new branch or leaf of the tree—there’s nothing for it to hang onto, so it just falls away. By clearing out fog all the way to the bottom, I build a tree trunk in my head, and from then on, all new information can hold on, which makes that topic forever more interesting and productive to learn about. And what I usually find is that so many of the topics I’ve pegged as “boring” in my head are actually just foggy to me—like watching episode 17 of a great show, which would be boring if you didn’t have the tree trunk of the back story and characters in place.
+
+So when it was time to start what I had labeled in my head as “the Tesla post,” I knew this was going to be one of those posts. To understand if and why Tesla Motors matters, you have to understand both the story of cars and the story of energy—two worlds I somehow am simultaneously confused by and tremendously sick of. Just hearing someone say “climate change” or “energy crisis” or “tailpipe emissions” makes me kind of gag at this point—just too much politics, too many annoying people, too much misinformation on all sides, and it’s just hard to know how much I actually care and if there can be a solution to all of it anyway. So I did what I do when my tortoise shits when I’m out of the apartment and then spends hours walking through it and tracking it across everything, including the walls somehow—I rolled up my sleeves, took a deep breath, whispered, “Be a man, Tim,” and started scraping through layers of shit. If I have to live in a world with people arguing constantly about energy and oil and greenhouse gases and incentive programs, I might as well build myself a proper tree trunk.
+
+After weeks of reading and asking questions and writing, I’ve emerged from the tortoise sewage with something that toes the line between a long blog post and a short book. I could have broken this into multiple posts, but it’s all one story and I wanted to keep it all together. It’ll be a bit of a time investment, but I think you’ll come out of it with a sturdier tree trunk about all of this than you have now. And as it turns out, when it comes to this topic, we may be witnessing a very awesome moment in history without quite realizing it yet.
+
+Two disclaimers before we start:
+
+1) This is a highly politicized issue, but this post has no political agenda. I’m not political because nothing could ever possibly be more annoying than American politics. I think both parties have good points, both also have a bunch of dumb people saying dumb things, and I want nothing to do with it. So I approached this post—like I try to with every post—from a standpoint of rationality and what I think makes sense.
+
+2) Spoiler: The post is very pro-Tesla. Which might seem suspicious since A) Elon Musk asked me to write about this and B) I just wrote a post calling him the raddest possible man. But two things to keep in mind:
+
+First, this isn’t commissioned by Musk, and I’m being paid $0.00 for doing it. He suggested I take the issue on because I think he thinks there’s a lack of full tree trunks in people’s heads about it—but he never suggested that I say good things about Tesla, electric cars, or anything else.
+
+Second, the currency Wait But Why lives on is integrity. Without it, WBW loses its ability to make an impact. And integrity came first here, even at the expense of Musk potentially hating me at the end of it, if that’s what was necessary. If I didn’t think this would have made a great WBW topic, I wouldn’t have taken it on, and I’m pro-Tesla in the post because after a ton of learning and thinking—including as many counterarguments to Tesla and its worldview as I could find—that’s how I feel.
+
+And with that, let’s dive in.
+
+Contents
+
+Part 1: The Story of Energy
+Part 2: The Story of Cars
+Part 3: The Story of Tesla
+
+___________
+
+Part 1: The Story of Energy
+
+Story of Energy
+
+Energy is important. Without energy, we’d all be like this:
+
+Lying Down
+
+But what really is energy? The dictionary says it’s “the property of matter and radiation that is manifest as a capacity to perform work.” And it says “work” is “the exertion of force overcoming resistance or producing molecular change.” Putting that together, we get energy being “the property of matter and radiation that is manifest as a capacity to perform the exertion of force overcoming resistance or producing molecular change.”
+
+That was pretty unfun, so for our purposes, let’s call energy “the thing that lets something do stuff.”
+
+But the tricky thing about energy is the law of conservation of energy, which says that energy can’t be created or destroyed, only transferred or transformed from one form to another. And since every living thing needs energy in order to do stuff—and you can’t make your own energy—we’re all awkwardly left with no choice but to steal the energy we need from someone else.11← click these
+
+Almost all of the energy used by the Earth’s living things got to us in the first place from the sun.2 The sun’s energy is what makes the wind blow and the rain fall and it’s what powers the Earth’s living things—the biosphere.
+
+The joule is a common unit of energy—defined as the amount of energy it takes to apply a force of one newton through a distance of one meter3. While the sun’s joules can provide any animal with heat and light, the joules that power all of us from the inside enter the biosphere in the first place when the sun gives them to plants.
+
+Sun
+
+That’s how food is invented—plants know how to take the sun’s joules and turn them into food.
+
+At that point, all hell breaks loose as everyone starts murdering everyone else so they can steal their joules.
+
+We use “the food chain” as a cute euphemism for this murder/theft cycle, and we use the word “eating” to refer to “stealing someone else’s joules and also murdering them too.” A “predator” is a dick who always seems to want your joules over everyone else’s, and “prey” is just some sniveling nerd you particularly like to bully and steal lunch money from. Plants are the only innocent ones who actually follow the Golden Rule, but that’s just because they have the privilege of having the sun as their sugar daddy—and humans are the biosphere’s upsetting mafia boss who just takes what he wants from anyone he wants, whenever he wants. It’s not a great system, but it works.
+
+And that all went on normally for a while, but in the last few hundred thousand years, humans started to realize something: while it was enjoyable to put new joules into your body, actually using those joules sucked. It’s much less fun to use a bunch of joules running fast or lifting something heavy than it is to just sit on a log pleasantly and hold onto those joules instead. So humans got clever and started to figure out ways to get joules outside their bodies to do work for them—by doing that, humans could have their joules and eat them too. Sometimes the methods would be dickish:
+
+Horse hand
+
+But joules aren’t only in living things. There are joules floating and swirling and zooming all around us, and by inventing the concept of technology, humans figured out ways to get use out of them. They made windmills that could steal some of the wind’s joules as it went by and convert them into mechanical energy to grind food. They built sailboats that would convert wind joules into kinetic boat energy they could control. Water absorbs the sun’s radiation joules and turns them into gravitational potential energy joules when it evaporates and then kinetic energy joules when it rains and slides down land, and humans saw the opportunity to snatch some of those up by creating water wheels or dams.
+
+But the most exciting joule-stealing technology humans came up with was figuring out how to burn something. With wind or water, you can only capture moving joules as they go by—but when you burn something, you can take an object that has been soaking up joules for years and release them all at once. A joule explosion.
+
+They called this explosion fire, and because the joules that emerged were in the useful-to-humans formats of heat energy and light energy, burning things became a popular activity.
+
+Taming a Dragon
+
+We had learned to harness the joules of the wind and the water—to take those forces by the reins and make them ours—but when it came to the most joule-heavy force of all, fire, we couldn’t really figure out how to do anything with it other than hang out near it, cook some stuff, and generally benefit from its existence. Fire was a hectic dragon and no one had figured out how to grab its reins.
+
+And then came the breakthrough. Steam.
+
+Fire joules were hard to harness, but if you sent them into water, they’d get the water molecules to increasingly freak out and bounce around until finally those molecules would fully panic and start flying off the surface, evaporating upwards with the force of the raging fire below. You’d have successfully converted the thermal energy joules of the fire—which we didn’t know how to directly harness—into a powerful jet of steam we could control.
+
+With the muscle of steam in their toolkit, the inventors of the 18th century burst into innovation. They had some serious joules to work with now, which opened worlds of previously-unthinkable possibility. Breakthroughs led to more breakthroughs, and at the turn of the 19th century, the progress culminated in an invention that’s often called the most impactful turning point in human history: the steam engine.
+
+Picture your tea kettle when it gets all angry at you and starts whistling. Now imagine that instead of the steam spewing out through the nozzle, you connected the nozzle to a tube, which directs the bursting steam into an empty cylinder and then finally releases it. When the steam goes into and then out of the cylinder, it shoves a “piston” inside the cylinder on a powerful back-and-forth motion. That’s (a dramatic oversimplification of) how a steam engine works. Depending on the vehicle, the back-and-forth motion of the piston can do different things. In the example of a locomotive, the piston is attached to a rod whose back-and-forth motion turns the wheels:2
+
+rodsmed
+
+ 
+
+Using the steam engine, humanity upgraded from sailboats to steamships and from animal-drawn carts to locomotives.4 Inside factories, people put steam to work too, swapping out their water wheels for much more effective steam-powered wheels.
+
+With the new ability to transport many more goods and materials, much farther away, much more quickly, and to far more efficient factories, the Industrial Revolution ignited in full force. People say the Industrial Revolution was powered by steam, but steam was just the middleman—after hundreds of thousands of years of existing as passive benefactors of combustion, we had tamed the dragon, and the Industrial Revolution was powered by fire.
+
+Striking Gold
+
+The one thing about having made fire our bitch is that we now wanted to burn a lot more things than we ever had before. For most of human history, when people wanted to burn something, they just went and found some wood. Easy. Except now it was the 19th century, and with our new appetite to burn, wood wouldn’t cut it anymore.
+
+We knew there were other things we could burn—in Britain, they would often supplement wood by burning a black rocky substance they found on their shores. They called it coal.
+
+The problem is that unlike wood, most of the coal in Britain wasn’t just sitting conveniently on land—it was underground. When the Industrial Revolution got going, the British started digging—they were gonna need a lot of coal. As the revolution spread through Europe and to North America, Europeans and Americans started digging too—they also were gonna need a lot of coal.
+
+As everyone dug, they started finding other things too. They found pockets of burnable air we call natural gas and underground lakes of thick, black burnable liquid we call crude oil. It turns out that this whole time, humans had been walking around with a vast untapped treasure of tightly packed, burnable joules right underneath them. It was like a dog digging in the woods to bury a bone and uncovering an underground cave full of pulled pork.
+
+And what does a dog do who finds a cave of pulled pork? Does he pause to think cautiously about how to proceed or consider consequences for his health? No—he eats the shit out of it. Mindlessly, at full speed.
+
+And throughout the 19th century, coal mines and oil rigs popped up everywhere. Burning this new treasure of joules made economies soar and the incentive to innovate soared along with them—and new, fantastic technologies were born.
+
+Like steam engine technology, the credit for the electricity revolution is owed to a collaboration of dozens of innovators spanning centuries, but it was in the 1880s that it all finally came together. In what is still probably the most significant technological shift of all time, electricity allowed the raucous power of burning to be converted into a highly tame and remarkably versatile form of energy called electrical energy. With steam as a key middleman, all those spastic combustion joules could now be sent into an organized grid of wires, transferred long distances, and delivered into residential and commercial buildings where it would wait patiently in an outlet ready to be discharged at the user’s convenience.5 At that point, the now electrical joules could be converted into almost any kind of energy—they could boil water, freeze ice, light up the room, or make a phone call. If steam had tamed the dragon, electricity had turned the dragon into a magical butler, forever at our service. And for the first time in human history, the power was on.
+
+Right around the time this was happening, another revolution was underway. Fire was now powering our ships, our trains, our factories, and even the new wizardry of electricity, but individual transportation was still powered by hay like it was 1775—and late 19th century humanity knew we could do better. Biological horses got super upset if you tried to power them by fire, so again, humanity got innovating, and a couple decades later, there were big, metal horses everywhere with engine cylinders full of fire.
+
+As coal, oil, and natural gas motivated unprecedented innovation, the resulting waves of new technologies created an unprecedented need to burn stuff—which motivated the diggers. Companies that focused on digging, sucking, and siphoning up more and more of our underground joule treasure, like John D. Rockefeller’s Standard Oil, became the world’s biggest corporate empires. It was a new world, powered by an endless cave of pulled pork, being gorged upon by the world’s happiest dog…
+
+___________
+
+Flash forward to the present day.
+
+Burning our bounty of underground joule-packed fuel to power our world is now an innovation more than two centuries old—but in 2015, it’s still the main way humans get their power:3
+
+Total_World_Energy_Consumption_by_Source_2013
+
+That’s the thing about dogs—if given something delicious, they tend to eat until the food runs out or they get sick, whichever comes first, and there aren’t too many other factors in play. The modern energy debate essentially boils down to whether it’s okay that the dog is still fully enjoying himself in the cave or whether it’s not because he might be making himself dangerously sick or risk running out of pulled pork—which would be a problem, because he has grown increasingly large since finding the cave, and he has no way outside the cave of feeding his now-immense appetite.
+
+As you might have noticed, there are a lot of people who have a lot of opinions for a lot of reasons saying a lot of things about this situation. And some are saying real things, but a large portion of them either don’t especially know what they’re talking about or they have some ulterior motive for saying what they’re saying. This makes an already complex, murky, multi-faceted topic even more confusing.
+
+So let’s lay out what we do know and try to clarify what the hell is really going on.
+
+To begin with—what exactly are fossil fuels and where do they come from?
+
+Fossil fuels are called fossil fuels because they’re the remains of ancient living things. “Ancient” in this case spans a wide range. The earliest organisms that contribute to today’s fossil fuels lived during the Precambrian Eon, before there were any plants and animals on land—the fossil organisms then would have been ocean algae. People often think fossil fuels are made of dinosaurs, but any dinosaurs in our gasoline are from the last couple hundred million years—the later stretch of the timespan—and only a small contributor. The largest portion of our fossil fuels comes from plants, animals, and algae that lived during the Carboniferous Period—a 50 million year period that ended about 300 million years ago and during which there were lots of huge, shallow swamps. The swamps were important because it made it more likely that a dead organism would be preserved. You don’t become a fossil fuel if you die in a normal place and decompose away. But by dying in a swamp and sinking to the bottom, Carboniferous organisms often ended up being quickly covered by sand and clay and were able to make it underground with their joules still intact.
+
+After hundreds of millions of years, all those organisms were squashed under intense heat and pressure and became converted into joule-dense solid, liquid, or gas—coal, oil, and natural gas. Quick blue box brush-up:
+
+Fossil Fuels Brush-Up
+
+Coal, a black sedimentary rock that’s found in underground layers called coal beds, is the cheapest and most plentiful of the three and is used almost entirely for making electricity. It’s also the worst culprit for CO2 emissions, releasing about 30% more CO2 than the burning of oil and about double that of natural gas when generating an equivalent amount of heat.4 The US is to coal as Saudi Arabia is to oil, possessing 22% of the world’s coal, the most of any nation. China, though, has become by far the world’s largest consumer of coal—over half of the coal burned in the world in recent years was burned in China.5
+
+Oil, also known as crude oil or petroleum, is a gooey black liquid normally found in deep underground reservoirs. When crude oil is extracted, it heads to the refinery, where it’s separated, using different boiling points, into a bunch of different things. Here’s how a typical barrel of US oil was broken down in 2014:6
+
+    44.9% gas for cars
+    29.8% heating oil and diesel fuels
+    13.8% other products like wax, synthetic rubber, and plastics
+    9.5% jet fuel (kerosene)
+    2.0% asphalt
+
+The United States is by far the biggest consumer of oil in the world, consuming over 20% of the world’s oil and about double the next biggest consumer. The US is also one of the three biggest oil producers in the world, alongside Saudi Arabia and Russia, who all produce roughly the same amount.6
+
+Natural gas, which is formed when underground oil gets to a super-high temperature and vaporizes, is found in underground pockets, usually in the vicinity of oil reserves. The “cleanest” of the three fossil fuels, it’s the gas that fires up your stove or heats your apartment (if those aren’t electricity-powered or heated by oil), and it’s one of the major sources of electricity (it makes up about 20% of electricity in the US). Natural gas is on the rise and now makes up almost a quarter of the world’s energy. One of the reasons it’s on the rise is that scientists have found a new way of extracting natural gas from the Earth called hydraulic fracturing, or “fracking,” which uses a mixture of water, sand, and chemicals to create cracks in natural gas-rich shale and force out the gas. This method has been hugely effective, but it’s also controversial because of some serious environmental concerns—this video explains it well.
+
+As for the reasons people argue that fossil fuels are problematic, we’re going to focus on the two most common—
+
+ISSUE 1: Climate Change is a Thing
+
+Let’s ignore all the politicians and professors and CEOs and filmmakers and look at three facts:
+
+Fact 1) Burning Fossil Fuels Makes Atmospheric CO2 Levels Rise
+
+We’ll get to the data in a second, but first—why does burning fossil fuels emit CO2?
+
+The answer is simple: combustion is reverse photosynthesis.
+
+When a plant grows, it makes its own food through photosynthesis. At its most oversimplified, during photosynthesis, the plant takes CO2 from the air7 and absorbs light energy from the sun to split the CO2 into carbon (C) and oxygen (O2). The plant keeps the carbon and emits the oxygen as a waste product. The sun’s light energy stays in the plant as chemical energy the plant can use.
+
+So wood is essentially a block of carbon and stored chemical energy.
+
+When you burn a log, all you’re doing is reversing the photosynthesis. Normally, oxygen in the air just bounces off carbon molecules in wood—that’s why trees aren’t constantly on fire. But when an oxygen molecule gets moving fast enough and smashes into a log’s carbon molecule, they snap together and the oxygen and carbon are reunited again as CO2. This snapping releases chemical energy, which knocks into other nearby oxygen molecules, causing them to get going fast—and if they get going fast enough, they’ll snap together with another of the log’s carbon molecules, which releases more chemical energy. This causes a chain reaction, and the log is now on fire. So a log burning is the process of the carbon in the log combining with oxygen in the air and floating off as CO2.
+
+Of course, that’s all irrelevant to the person burning the log—what they care about is the energy released during all of this CO2 formation. The release of all of the log’s stored chemical energy creates a glorious blaze of heat and light. The tree spent years quietly absorbing carbon molecules and sunshine joules, and all at once, during combustion, that carbon and sunshine explode back out into the world.8
+
+To put it another way, photosynthesis just kidnaps carbon and sun energy out of the atmosphere, and after years of holding them hostage, combustion sets them both free—the carbon as a billowing eruption of newly reunited CO2, and the sun energy as fire—meaning that fire is essentially just tightly packed sunshine.
+
+But burning a log and releasing all that CO2 does not tamper with the atmosphere’s carbon levels. Why? Because the carbon that’s being released was recently in the atmosphere, and if you hadn’t set the log on fire, it would have likely decomposed, which would release the carbon back into the world anyway. The log’s carbon was only being held temporarily hostage, and releasing it through combustion has little effect.
+
+Carbon flows from the atmosphere into plants and animals, into the ground and water, and then back out of all those things into the atmosphere—that’s called the carbon cycle. At any given point in time, the Earth’s active carbon cycle contains a specific amount of carbon. Burning a log doesn’t change that level because the carbon cycle “expects” that carbon to be hanging around the ground, water, or air.
+
+But sometimes, a small portion of carbon in the cycle drops out of the cycle for the long term—it happens when a plant or animal dies but for some reason doesn’t decay normally. Instead, before it can decay and release its carbon back into the cycle, it’s buried underground. Over time, that lost carbon adds up. And today, the Earth’s fossil fuels make up a huge mass of lost carbon—carbon that long ago was taken hostage permanently, and carbon that the carbon cycle does not expect to be involved in its routine.
+
+When humans discovered all of this underground kidnapped carbon, you have to remember that for them, the carbon wasn’t the point. They were staring at an endless sea of 300 million-year-old, densely packed sunshine—trillions of ancient plants with their joules intact—and since there are no laws protecting the estates of Carboniferous plants, we could seize it all for ourselves. The grandest joule theft in history.
+
+And as we helped ourselves, we didn’t worry about the fact that extracting those joules also meant extracting carbon that had been buried as far back as the Precambrian period—there were locomotives to fuel and cars to power and buildings to heat, and the joules were irresistible.
+
+And those joules have gone a long way—you can thank them for the comforts and quality of your life today. But those carbon molecules have gone a long way too.
+
+Starting in 1958, scientist Charles Keeling started measuring atmospheric CO2 levels from an observatory on Mauna Loa in Hawaii. Those measurements are still going on today. Here’s what they show:7
+
+Mauna_Loa_CO2_monthly_mean_concentration.svg
+
+The zig-zaggy motion of the line is due to the level falling each year in the summer when plants are sucking up CO2 and rising up again during the winter when the leaves are dead. But the overarching trend is unmistakable. To put that into context, ice drilling technology9 allows scientists to collect accurate data on what CO2 levels have been throughout the last 400,000 years. Here’s what they’ve found:8
+
+co2_variations
+
+So atmospheric CO2 levels have oscillated10 between about 180 and 300 parts per million over the last 400,000 years, never eclipsing 300, and suddenly in the last century the level has vaulted up to 400 (it’s currently at 403ppm).
+
+So instead of the atmosphere being .02% or .03% carbon, it’s now .04% carbon and maybe moving towards .05% and higher. But let’s not judge anything yet. All we know is Fact #1, which tells us that CO2 levels are rising quickly.
+
+Fact 2) Where Atmospheric CO2 Levels Go, Temperatures Follow
+
+The ice cores dug up by scientists don’t just reveal the CO2 levels going backwards in time—they reveal temperature too. Here’s what they show:9
+
+temp graph
+
+Not a hard correlation to see. The reason for this is simple—CO2 is a greenhouse gas. The way an actual greenhouse works is the glass lets in sun energy and traps a lot of it inside as heat. There are a handful of chemicals in our atmosphere that do the same thing—sun rays come in, bounce off the Earth, and they’re on their way out when the greenhouse gases in the atmosphere block some of them and spread them through the atmosphere, warming things up.
+
+Mars has an average temperature of -55ºC (-67ºF), which isn’t fun, but Venus is literally actual hell, with an average temperature of 462ºC (864ºF). No one is more of a dick than Venus. Why? CO2. Mars has a much thinner atmosphere than Earth so the sun’s energy easily escapes, while Venus’s atmosphere is much thicker, with 300 times the CO2 as Earth, so it traps in a ton of heat. Mercury is closer to the sun than Venus, but with no atmosphere, it’s cooler than Venus. During the day, Mercury gets almost as hot as Venus, but at night it gets freezing, while Venus is just as hot at night as it is during the day, because the heat lives permanently in its thick atmosphere.
+
+So it makes sense that an increase in CO2 here would increase temperature—but by how much? When compared to the Pre-Industrial average temperature, our current average temperature has risen by a little less than 1ºC. But as CO2 levels keep rising, most scientists expect temperatures to keep rising. The UN-supported Intergovernmental Panel on Climate Change (IPCC), a group of 1,300 independent scientific experts from a bunch of different countries, came out with a report that laid out the temperature projections of a number of independent labs. This is what those labs think will happen if no action is taken to alter the current trends in CO2 emissions:10
+
+Global_Warming_Predictions
+
+A small minority argue that these future projections are overblown—they point out that they ride on the largely accepted theory that water vapor in the atmosphere multiplies the effect of carbon emissions because of a “feedback” loop, whereby a small increase in temperature from extra CO2 increases water evaporation, and since water vapor is also a greenhouse gas, that creates more warmth, which further increases more evaporation, and on and on. Without this feedback loop, the temperature increases resulting from CO2 emissions would be 2-3 times smaller. But even the greatest skeptics usually agree that CO2 emissions do lead to temperature increases.
+
+The IPCC also puts it at over 90% that the changes in both CO2 levels and temperature are caused by human activity (which is kind of like saying there’s over a 90% chance that a rain storm has been caused by cloud activity). Now the question becomes—how much does the temperature need to change to make everything shitty?
+
+Fact 3) The Temperature Doesn’t Need to Change Very Much to Make Everything Shitty
+
+18,000 years ago, global temperatures were about 5ºC lower than the 20th century average. That was enough to put Canada, Scandinavia, and half of England and the US under a half a mile of ice. That’s what 5ºC can do.11
+
+100 million years ago, temperatures were 6-10ºC higher than they are now—and every region of the Earth was tropical, there was no permanent ice anywhere, ocean levels were 200 meters higher, and this kind of shit was happening:12
+
+T-rex-120501
+
+So we’re currently in this not-that-big window we probably should try to stay in:
+
+temp spectrum
+
+This is also even more fragile than is intuitive. First, you don’t need the average temperature to go up by a catastrophic amount to have a catastrophe—because the average temp could go up by only 3ºC but the max temp rises by a lot more. Just one day at an outlier high like 58ºC (136ºF) would wipe out most of the Earth’s crops and animals. Second, because the total range of temperature a planet can be goes all the way down to absolute zero: -273ºC (-459ºF). So a difference of 5ºC, enough to bury the northern part of the world under an ocean of ice, is really only about a 1.5% fluctuation in temperature—not something like 10%, which is what it seems like. Looking at the window on a spectrum that shows the full range emphasizes that the world we’re used to is what it is only because of a very specific and delicate balance of conditions.
+
+temp spectrum 2
+
+As mentioned above, right now, the average temp is edging upwards to 1ºC above the Pre-Industrial norm (the IPCC puts us at +.86ºC currently). Scientists debate how high that number can go before really dramatic changes start to happen. For the last 20 years, over 100 countries have agreed to try to limit global warming to a 2ºC increase, but there are all of these different opinions going around about that. Regarding the effects of a 2ºC increase, in my research, I came across some credible sources saying 2º is an unnecessarily low ceiling and that we can afford to safely go higher and others saying that 2º is too high a target and that we’re underestimating how catastrophic a change of 2º would be. Regarding our ability to stay under 2º, I’ve also heard varying opinions—some think we can stay under 2º with proper restrictions; others think there’s no possible way we can stay under 2º—that there’s enough upward momentum already that even if we stopped creating carbon emissions in the next few years, the Earth would keep warming past 2º.
+
+So what are we supposed to make of this?
+
+Our goal today is not to dig deep into these conflicting opinions and try to figure out the truth, because no one knows for sure anyway. We’re not going to talk about specific things like sea levels, pollution, storms, or that polar bear in the video who’s extra sad because his ice is melting. We’re just going to take our three facts and put them all together and see what happens:
+
+Cancel
+
+This simplifies down to:
+
+Cancel 2
+
+Interesting. But let’s not ostracize the skeptics. We can massage it into a statement that leaves plenty of room for doubt:
+
+If we continue to burn fossil fuels as much as we are, things might get really shitty kind of soon.
+
+With this in mind, let’s now move on to the second major concern people cite regarding fossil fuels:
+
+ISSUE 2: Fossil Fuels Are Endful
+
+A couple times so far, I’ve referred to our fossil fuels supply, that succulent underground sea of dense energy, as “endless”—because that’s how it seemed in the 19th century and how it often seems today when you realize how much of it is still underground waiting to be tapped. But actually, the Earth’s fossil fuel supply is not endless—it’s endful.
+
+When we run out is a complicated and hazy question. You have sites like this citing reports like this making charts that suggest that if we continue as is, we’re not very far from the end:13
+
+FFs remaining
+
+Then you have sites like this citing the CIA World Factbook and reminding us that when oil and natural gas run out, the coal usage will ramp up, so we actually have even less time:14
+
+end-of-fossil-fuels-graph
+
+Other sites point out that those cited totals are just referring to proven reserves, and that each year, we’re discovering new sources of fossil fuels, like oil locked in tar sands or abundant reserves of methane hydrate under the ocean floor, and developing new technologies to reach them, like fracking or horizontal drilling. Those sources suggest we’re unlikely to run out of fossil fuels for many centuries. A common counter to those sources is that even without running out, we could face a serious problem if the extraction of the fuels becomes more and more difficult and expensive over time.
+
+The problem with running out, whenever it happens, is that if the world is anywhere near as reliant on fossil fuels at that point as we are now, it’ll cause an epic economic collapse. As fossil fuels grow more and more scarce, prices will skyrocket. That will cause a furious rush to develop renewable energy technology, but it may be too late at that point to prevent a worldwide economic meltdown.
+
+Basically, we’re currently living off of a trust fund we found underground, and we’d better learn how to get a job before it runs out.
+
+For our sum-up for this section, how about:
+
+At some point in the future, either really soon or just a little soon, we’ll have no choice but to stop running everything on fossil fuels, because they’ll either be gone or too expensive.
+
+This statement highlights the fact that we’re very much in what will be known as the Fossil Fuel Era of human history.
+
+FF Timeline
+
+Bringing back our first statement—if we continue to burn fossil fuels as much as we are, things might get really shitty kind of soon—suggests that if we continue to dick around in the black zone until we’re forced out by short supply, we’re risking making the yellow zone permanently worse for humans to exist in.
+
+This is why Elon Musk likes to say that the indefinite extension of the Fossil Fuels Era is “the dumbest experiment in history.” He emphasized this point to me: “The greater the change to the chemical composition of the physical, chemical makeup of the oceans and atmosphere [due to increased carbon emissions], the greater the long-term effect will be. Given that at some point they’ll run out anyway, why run this crazy experiment to see how bad it’ll be? We know it’s at least some bad, and the overwhelming scientific consensus is that it’ll be really bad.”
+
+In other words, as it relates to the above timeline—there’s potentially huge long-term downside to staying in the black area for too long, so let’s just get ourselves to the yellow part as soon as we can. Some skeptics I read made what seemed like very valid points, but even most skeptics agreed that burning of fossil fuels causes some degree of warming and that warming might turn out to be harmful. And even if we view this as a genuine debate—when one possibility is “turns out burning fossil fuels wasn’t actually dangerous” and the other side is “turns out burning fossil fuels was horribly catastrophic,” don’t we want to play it safe??
+
+So how do we get from the black to the yellow?
+
+To help us answer that question, let’s turn to the Lawrence Livermore National Laboratory and their useful energy charts. They update the US flowchart every year, and we’ll get there in a minute, but first, let’s check out some of the charts from their 2011 report, where they have a flow chart for every country and the world as a whole for the year 2007. (The charts look icky and confusing at first, but they’re actually really simple—just showing how much of each source is used and how that source is broken up among sectors.)
+
+ France is an example of a factor we’re not going to discuss in this post, but an important one: fossil fuels are a bit of a geopolitical nightmare. Nation interdependence can be productive and important, but nations being dependent on other nations for their survival is never a great thing, and the need to import fossil fuels is one of the major reasons for modern nation ultra-dependency. France is totally reliant on oil for its transportation and totally reliant on other countries for oil—this puts them in a vulnerable position. The US isn’t as dependent. It relied on other nations for 60% of its oil a decade ago but has since become one of the top three oil-producing countries, and the EIA projects net oil imports to make up only 21% of the US’s 2015 oil consumption. I was also surprised to see that only a small portion of US oil imports were from the Middle East, with only 12.5% of them coming from Saudi Arabia and 20% from the entire combined Persian Gulf. Far more was from the Western Hemisphere, with Canada by far the largest at 37% of imports and Mexico and Venezuela also prominent at 9% each.
